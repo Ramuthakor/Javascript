@@ -7,7 +7,8 @@ accountEmail = "raj.com";
 accountPassword = "007008"
 accountCity = "Bengaluru"
 
-let accountState 
+const accountState = "Gujarat";
+
 
 // accountId = 2 not allowed 
 
